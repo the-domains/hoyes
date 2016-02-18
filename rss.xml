@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Shaun Hoyes]]></title>
-        <description><![CDATA[Shaun Hoyes]]></description>
+        <title><![CDATA[thegrid.ai/hoyes]]></title>
+        <description><![CDATA[thegrid.ai/hoyes]]></description>
         <link>https://thegrid.ai/hoyes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 17:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 21:02:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hoyes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>For some of my personal commentary, visit hoyesexaminar.io. </p>]]></description>
+            <link>https://thegrid.ai/hoyes/da0cde41-307f-40d6-90db-a44b4d380099/index.html</link>
+            <guid isPermaLink="false">da0cde41-307f-40d6-90db-a44b4d380099</guid>
+            <pubDate>Thu, 18 Feb 2016 21:02:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5aba8cb238505485c76430071dc95a8c135482e1.jpg" alt="Shaun Hoyes" title="">]]></description>
